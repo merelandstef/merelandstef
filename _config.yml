@@ -1,0 +1,8 @@
+# Site settings
+title: Merel and Stef
+description: Coming soon
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
